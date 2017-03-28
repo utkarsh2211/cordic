@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2017-03-26T17:14:15</DateModified>
+  <DateModified>2017-03-28T23:38:33</DateModified>
   <ModuleName>cordic</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
-  <SavedFilePath>/home/satyam/code/Acads/DLD/cordic/iseconfig/cordic.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>/home/satyam/code/Acads/DLD/cordic</ImplementationReportsDirectory>
+  <SavedFilePath>F:/Xilinx/cordic/iseconfig/CORDIC.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>F:/Xilinx/cordic\</ImplementationReportsDirectory>
   <DateInitialized>2017-03-26T17:14:15</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
